@@ -9,8 +9,10 @@ description: "Penetration Tester specializing in web, mobile, and Active Directo
 ## 👋 Hi, I’m Abdelrhman Khaled
 
 <div class="d-flex justify-content-center my-4">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=652323" 
-          style="border:none; width:300px; height:100px;">
+  <iframe 
+    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=652323" 
+    style="border: none; width: 100%; max-width: 450px; height: 140px;"
+    scrolling="no">
   </iframe>
 </div>
 
