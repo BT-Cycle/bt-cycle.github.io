@@ -8,6 +8,12 @@ description: "Penetration Tester specializing in web, mobile, and Active Directo
 
 ## 👋 Hi, I’m Abdelrhman Khaled
 
+<div class="d-flex justify-content-center my-4">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=652323" 
+          style="border:none; width:300px; height:100px;">
+  </iframe>
+</div>
+
 I’m a **Penetration Tester and Offensive Security enthusiast** with hands-on experience in **Web, API, Mobile (Android/iOS), and Network/Active Directory security**.  
 This blog documents my **Hack The Box writeups**, lab research, and real-world exploitation techniques with a strong focus on **clear methodology and remediation**.
 
