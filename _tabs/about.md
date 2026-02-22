@@ -17,8 +17,8 @@ description: "Penetration Tester specializing in web, mobile, and Active Directo
 
 .thm-badge iframe {
   width: 100%;
-  max-width: 420px;
-  height: 180px;
+  max-width: 350px;
+  height: 100px;
   border: none;
   border-radius: 12px;
   overflow: hidden;
@@ -26,7 +26,7 @@ description: "Penetration Tester specializing in web, mobile, and Active Directo
 }
 
 [data-mode="light"] .thm-badge iframe {
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 1);
 }
 
 [data-mode="dark"] .thm-badge iframe {
