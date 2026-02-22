@@ -11,26 +11,14 @@ description: "Penetration Tester specializing in web, mobile, and Active Directo
 <style>
 .thm-badge {
   margin: 1.5rem 0;
-  display: flex;
-  justify-content: center;
+  display: inline-block; /* shrink-wrap to content */
 }
 
 .thm-badge iframe {
-  width: 100%;
-  max-width: 350px;
-  height: 100px;
+  display: block;
   border: none;
-  border-radius: 12px;
-  overflow: hidden;
-  transition: all 0.3s ease;
-}
-
-[data-mode="light"] .thm-badge iframe {
-  box-shadow: 0 4px 20px rgba(255, 255, 255, 1);
-}
-
-[data-mode="dark"] .thm-badge iframe {
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+  width: 340px;   /* native width */
+  height: 160px;  /* native height */
 }
 </style>
 
