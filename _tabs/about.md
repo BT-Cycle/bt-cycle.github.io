@@ -6,7 +6,7 @@ permalink: /about/
 description: "Penetration Tester specializing in web, mobile, and Active Directory security. HTB writeups, offensive security labs, and real-world attack techniques."
 ---
 
-## 👋 Hi, I’m Abdelrhman Khaled
+## 👋 Hi, I’m Abdelrhman Reda
 
 I’m a **Penetration Tester and Offensive Security enthusiast** with hands-on experience in **Web, API, Mobile (Android/iOS), and Network/Active Directory security**.  
 This blog documents my **Hack The Box writeups**, lab research, and real-world exploitation techniques with a strong focus on **clear methodology and remediation**.
@@ -20,6 +20,7 @@ This blog documents my **Hack The Box writeups**, lab research, and real-world e
 - Network and Active Directory exploitation
 - Vulnerability research and proof-of-concept development
 - Security writeups and technical documentation
+- Reverse engineering
 
 ---
 
@@ -43,6 +44,7 @@ This blog documents my **Hack The Box writeups**, lab research, and real-world e
 **Languages**
 - Python
 - JavaScript
+- C
 
 ---
 
@@ -77,9 +79,9 @@ This site is a **technical knowledge base** where I:
 
 ## 🔗 Links
 
-- GitHub: https://github.com/apkreno108
-- LinkedIn: https://linkedin.com/in/abdelrhman-khaled-b65b72397
-- Email: abdol08mail@gmail.com
+- GitHub: https://github.com/BT-Cycle
+- LinkedIn: https://www.linkedin.com/in/abdelrhman-reda-
+- Email: redaabdelrhman169@gmail.com
 
 ---
 
