@@ -11,7 +11,7 @@
   noblank: true # open link in current tab
 - type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://linkedin.com/in/abdelrhman-khaled-b65b72397'                  # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/abdelrhman-reda-'                  # Fill with your Linkedin homepage
 
 # - type: rss
 #   icon: "fas fa-rss"
